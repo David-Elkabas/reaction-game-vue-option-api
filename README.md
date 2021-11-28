@@ -6,19 +6,18 @@
 the game start when the player click on the start button. then the player need to click only on the green shapes.<br />
 when the player accidentally click on a different shape the game end and the end-screen appears with the score and a short sentence about the performance of the player.  
 
-## Demo
+## :octocat: Demo
 <p align="center">
 	<img src="https://github.com/David-Elkabas/reaction-game-vue-option-api/blob/main/game%20example.gif">
 </p>
 
-## ⚙️ Execution:
+## 🛠️ Execution:
 -	Clone this repository using
 ```
 git clone https://github.com/dhhruv/Sudoku-Solver.git
 ```
-**OR**
 
-## Project setup
+## ⚙️ Project setup
 ```
 npm install
 ```
