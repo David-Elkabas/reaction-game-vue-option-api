@@ -8,7 +8,7 @@ when the player accidentally click on a different shape the game end and the end
 
 ## Demo
 <p align="center">
-	<img src="https://github.com/David-Elkabas/reaction-game-vue-option-api/blob/main/UI%20in%20game.PNG">
+	<img src="https://github.com/David-Elkabas/reaction-game-vue-option-api/blob/main/game%20example.gif">
 </p>
 
 ## ⚙️ Execution:
