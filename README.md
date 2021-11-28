@@ -1,5 +1,5 @@
 # reaction-timer
-🎯reaction game with simple UI. created in Vue - option API 
+🚀 reaction game with simple UI. created in Vue - option API 
 
 
 ### about the game
@@ -34,3 +34,8 @@ npm run build
 
 ### ✅ Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## 👀 License
+
+MIT
+
